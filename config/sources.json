@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "source_id": "nhs-ae-2026-09",
+      "publisher": "NHS England",
+      "title": "A&E Attendances and Emergency Admissions September 2026",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/10/September-2026-CSV-Re72Eh.csv",
+      "reporting_period": "September 2026",
+      "local_filename": "nhs_ae_monthly_2026_09.csv",
+      "sha256": "05c1863cba4249e38a8a0e0cb265ccbd8a3174b91c1d201a5788cde61b7d614c",
+      "status": "active",
+      "notes": "Official NHS England Monthly A&E provider-level CSV."
+    }
+  ]
+}

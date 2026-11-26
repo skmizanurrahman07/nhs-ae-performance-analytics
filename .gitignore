@@ -1,0 +1,64 @@
+﻿# Python virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Test, lint and type-check caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.*
+*.env
+
+# Local databases and Power BI files
+*.duckdb
+*.db
+*.pbix
+
+# Project data
+data/raw/*
+data/interim/*
+data/processed/*
+data/analytical/*
+data/database/*
+
+# Preserve controlled directory structure
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!data/analytical/.gitkeep
+!data/database/.gitkeep
+
+# Temporary / backup documentation
+README.pre_documentation_audit.md
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak

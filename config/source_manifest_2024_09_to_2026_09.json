@@ -1,0 +1,229 @@
+{
+  "sources": [
+    {
+      "source_id": "nhs-ae-2024-09",
+      "file_name": "nhs_ae_monthly_2024_09.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2024_09.csv",
+      "file_size_bytes": 30674,
+      "sha256": "b100d50e456fbfdfaa5729d34f7b720f31e8220f650f32a96c1cf33d6e363cb8",
+      "reporting_period": "September 2024",
+      "ingested_at": "2026-11-05T01:13:08.667170Z"
+    },
+    {
+      "source_id": "nhs-ae-2024-10",
+      "file_name": "nhs_ae_monthly_2024_10.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2024_10.csv",
+      "file_size_bytes": 29295,
+      "sha256": "934223ea6747ebb9aa7b2d7e96a2dacf6a1554c7c7e4f4ca025bd989252896e6",
+      "reporting_period": "October 2024",
+      "ingested_at": "2026-11-05T01:13:08.673098Z"
+    },
+    {
+      "source_id": "nhs-ae-2024-11",
+      "file_name": "nhs_ae_monthly_2024_11.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2024_11.csv",
+      "file_size_bytes": 29504,
+      "sha256": "0e3b3269074f617c6b70bed1b09c2901e366aace318f052fe8070a911a88f5c2",
+      "reporting_period": "November 2024",
+      "ingested_at": "2026-11-05T01:13:08.673098Z"
+    },
+    {
+      "source_id": "nhs-ae-2024-12",
+      "file_name": "nhs_ae_monthly_2024_12.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2024_12.csv",
+      "file_size_bytes": 29529,
+      "sha256": "938e112a91a57154874ce86001646a620f884800f1bc82d17f5436ca4108b148",
+      "reporting_period": "December 2024",
+      "ingested_at": "2026-11-05T01:13:08.673098Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-01",
+      "file_name": "nhs_ae_monthly_2025_01.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_01.csv",
+      "file_size_bytes": 29284,
+      "sha256": "b99ff7e2b81f06c11190cfda73e87f90c8ee08b942633fe180fb2295475fb3d4",
+      "reporting_period": "January 2025",
+      "ingested_at": "2026-11-05T01:13:08.673098Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-02",
+      "file_name": "nhs_ae_monthly_2025_02.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_02.csv",
+      "file_size_bytes": 29445,
+      "sha256": "c524a9b94de00d290a4724e9b59ee25e92d8eaa554b1af8bfe7360ccbef2d6cb",
+      "reporting_period": "February 2025",
+      "ingested_at": "2026-11-05T01:13:08.673098Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-03",
+      "file_name": "nhs_ae_monthly_2025_03.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_03.csv",
+      "file_size_bytes": 28883,
+      "sha256": "2983652e5536aa8d0656bf05ad5cd753084500d8428b9623803688b2f7b92b0b",
+      "reporting_period": "March 2025",
+      "ingested_at": "2026-11-05T01:13:08.679155Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-04",
+      "file_name": "nhs_ae_monthly_2025_04.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_04.csv",
+      "file_size_bytes": 28844,
+      "sha256": "3f1985ad48750615b16eea59dd44512f154eba6e663e9b8c05bb88260ff7ef20",
+      "reporting_period": "April 2025",
+      "ingested_at": "2026-11-05T01:13:08.679155Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-05",
+      "file_name": "nhs_ae_monthly_2025_05.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_05.csv",
+      "file_size_bytes": 28685,
+      "sha256": "2d825cc8560d45a34f466a2b822ecfe198682534b82046962c44e28d3fbdb99b",
+      "reporting_period": "May 2025",
+      "ingested_at": "2026-11-05T01:13:08.679155Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-06",
+      "file_name": "nhs_ae_monthly_2025_06.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_06.csv",
+      "file_size_bytes": 28968,
+      "sha256": "cdccfc217e9f7ec0d5682f7692a8b393ac8c0db0aea7c5b96d42814dfb131117",
+      "reporting_period": "June 2025",
+      "ingested_at": "2026-11-05T01:13:08.679155Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-07",
+      "file_name": "nhs_ae_monthly_2025_07.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_07.csv",
+      "file_size_bytes": 28992,
+      "sha256": "340e88105ffb8d4092c609945cb73063dc9c846b097b88a9ab4395dd6d6b29fd",
+      "reporting_period": "July 2025",
+      "ingested_at": "2026-11-05T01:13:08.685179Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-08",
+      "file_name": "nhs_ae_monthly_2025_08.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_08.csv",
+      "file_size_bytes": 29338,
+      "sha256": "423930b9f916fc2e279a88804b37f17a0a9f9c37cb49535f327c3b2be880e499",
+      "reporting_period": "August 2025",
+      "ingested_at": "2026-11-05T01:13:08.685179Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-09",
+      "file_name": "nhs_ae_monthly_2025_09.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_09.csv",
+      "file_size_bytes": 29977,
+      "sha256": "1ecefe9b4810570d6fee449bb33d2d88c44700298401a67cef59397792384e62",
+      "reporting_period": "September 2025",
+      "ingested_at": "2026-11-05T01:13:08.685179Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-10",
+      "file_name": "nhs_ae_monthly_2025_10.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_10.csv",
+      "file_size_bytes": 29143,
+      "sha256": "2016584bde94e1d3d9904fd9605f6947f72e242a4b0250be5b4dd7fc3f43d166",
+      "reporting_period": "October 2025",
+      "ingested_at": "2026-11-05T01:13:08.685179Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-11",
+      "file_name": "nhs_ae_monthly_2025_11.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_11.csv",
+      "file_size_bytes": 29327,
+      "sha256": "09b0245e70c02594a412cca1ed28ad0cccb1a54701e2cb69e775663e548bcf24",
+      "reporting_period": "November 2025",
+      "ingested_at": "2026-11-05T01:13:08.691243Z"
+    },
+    {
+      "source_id": "nhs-ae-2025-12",
+      "file_name": "nhs_ae_monthly_2025_12.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2025_12.csv",
+      "file_size_bytes": 29351,
+      "sha256": "11076ca9f7e9a29cddf873773080b5edba6fc39cbbd8e2c345ad09e553c9e184",
+      "reporting_period": "December 2025",
+      "ingested_at": "2026-11-05T01:13:08.691243Z"
+    },
+    {
+      "source_id": "nhs-ae-2026-01",
+      "file_name": "nhs_ae_monthly_2026_01.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2026_01.csv",
+      "file_size_bytes": 29188,
+      "sha256": "b1707a9f1326407d4e2fa1ac1815751d87f04f22617d846706d4acf8b6a6a26a",
+      "reporting_period": "January 2026",
+      "ingested_at": "2026-11-05T01:13:08.694879Z"
+    },
+    {
+      "source_id": "nhs-ae-2026-02",
+      "file_name": "nhs_ae_monthly_2026_02.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2026_02.csv",
+      "file_size_bytes": 29315,
+      "sha256": "87f870535ea397d60645e9551672ece8d5193e2d6bc8e026ec25f5a45aced3e5",
+      "reporting_period": "February 2026",
+      "ingested_at": "2026-11-05T01:13:08.694879Z"
+    },
+    {
+      "source_id": "nhs-ae-2026-03",
+      "file_name": "nhs_ae_monthly_2026_03.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2026_03.csv",
+      "file_size_bytes": 28953,
+      "sha256": "5a6557670b5eb8d2f2999cecec9e61fca334d2e555ab5dc35461dc3fe44d5058",
+      "reporting_period": "March 2026",
+      "ingested_at": "2026-11-05T01:13:08.697299Z"
+    },
+    {
+      "source_id": "nhs-ae-2026-04",
+      "file_name": "nhs_ae_monthly_2026_04.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2026_04.csv",
+      "file_size_bytes": 27915,
+      "sha256": "09613a4478736c58d5a89bf2c9e1a5acb3d284d9da1b0462dcd6d74334e497ce",
+      "reporting_period": "April 2026",
+      "ingested_at": "2026-11-05T01:13:08.697299Z"
+    },
+    {
+      "source_id": "nhs-ae-2026-05",
+      "file_name": "nhs_ae_monthly_2026_05.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2026_05.csv",
+      "file_size_bytes": 27775,
+      "sha256": "9422af5fccfbac95902d94487a081396cb33e6d0331f3e1d350b14ad437b7b18",
+      "reporting_period": "May 2026",
+      "ingested_at": "2026-11-05T01:13:08.697299Z"
+    },
+    {
+      "source_id": "nhs-ae-2026-06",
+      "file_name": "nhs_ae_monthly_2026_06.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2026_06.csv",
+      "file_size_bytes": 27989,
+      "sha256": "02a95fd45e9a20a56c48f6a6bb94fd877a4221473d0b380723b685527cb29af4",
+      "reporting_period": "June 2026",
+      "ingested_at": "2026-11-05T01:13:08.697299Z"
+    },
+    {
+      "source_id": "nhs-ae-2026-07",
+      "file_name": "nhs_ae_monthly_2026_07.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2026_07.csv",
+      "file_size_bytes": 27845,
+      "sha256": "dfa8b3f4f5be00fd0d73baf7f28edb4c45b5615f0560b1174d278c8dd1d09211",
+      "reporting_period": "July 2026",
+      "ingested_at": "2026-11-05T01:13:08.703487Z"
+    },
+    {
+      "source_id": "nhs-ae-2026-08",
+      "file_name": "nhs_ae_monthly_2026_08.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2026_08.csv",
+      "file_size_bytes": 28180,
+      "sha256": "eeae467542dac68261fbafc6652f4d0ee36f180c8732a5eab25d252314ac6752",
+      "reporting_period": "August 2026",
+      "ingested_at": "2026-11-05T01:13:08.703487Z"
+    },
+    {
+      "source_id": "nhs-ae-2026-09",
+      "file_name": "nhs_ae_monthly_2026_09.csv",
+      "file_path": "data/raw/nhs_ae_monthly_2026_09.csv",
+      "file_size_bytes": 28797,
+      "sha256": "05c1863cba4249e38a8a0e0cb265ccbd8a3174b91c1d201a5788cde61b7d614c",
+      "reporting_period": "September 2026",
+      "ingested_at": "2026-11-05T01:13:08.703487Z"
+    }
+  ]
+}

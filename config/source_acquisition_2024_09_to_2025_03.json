@@ -1,0 +1,53 @@
+{
+  "sources": [
+    {
+      "source_id": "nhs-ae-2024-09",
+      "reporting_period": "September 2024",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/10/Monthly-AE-September-2024.csv",
+      "local_filename": "nhs_ae_monthly_2024_09.csv",
+      "revision_status": "published"
+    },
+    {
+      "source_id": "nhs-ae-2024-10",
+      "reporting_period": "October 2024",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/05/Monthly-AE-October-2024-revised.csv",
+      "local_filename": "nhs_ae_monthly_2024_10.csv",
+      "revision_status": "revised"
+    },
+    {
+      "source_id": "nhs-ae-2024-11",
+      "reporting_period": "November 2024",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/05/Monthly-AE-November-2024-revised.csv",
+      "local_filename": "nhs_ae_monthly_2024_11.csv",
+      "revision_status": "revised"
+    },
+    {
+      "source_id": "nhs-ae-2024-12",
+      "reporting_period": "December 2024",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/01/Monthly-AE-December-2024.csv",
+      "local_filename": "nhs_ae_monthly_2024_12.csv",
+      "revision_status": "published"
+    },
+    {
+      "source_id": "nhs-ae-2025-01",
+      "reporting_period": "January 2025",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/02/Monthly-AE-January-2025.csv",
+      "local_filename": "nhs_ae_monthly_2025_01.csv",
+      "revision_status": "published"
+    },
+    {
+      "source_id": "nhs-ae-2025-02",
+      "reporting_period": "February 2025",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/05/Monthly-AE-February-2025-revised.csv",
+      "local_filename": "nhs_ae_monthly_2025_02.csv",
+      "revision_status": "revised"
+    },
+    {
+      "source_id": "nhs-ae-2025-03",
+      "reporting_period": "March 2025",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2025/04/Monthly-AE-March-2025.csv",
+      "local_filename": "nhs_ae_monthly_2025_03.csv",
+      "revision_status": "published"
+    }
+  ]
+}
