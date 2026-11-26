@@ -539,3 +539,14 @@ This project was developed as a professional healthcare analytics portfolio case
 > **Business question → controlled data → quality assurance → reusable analytics → investigation → decision support → governance**
 
 The emphasis is not simply on producing visualisations, but on building analytical outputs that are **traceable, reproducible and appropriately interpreted**.
+
+---
+
+## Licence
+
+The original source code and project documentation in this repository are
+released under the MIT License. See `LICENSE`.
+
+The MIT License does not grant rights over third-party NHS source data,
+third-party trademarks, branding or other externally owned materials.
+Any such materials remain subject to their respective terms and conditions.
